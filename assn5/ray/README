@@ -1,0 +1,7 @@
+Threading works best at recursion depth 5 and anti-aliasing 4, I dont think I was able to set threading off, so its always threading and thats why many objects segfault when traced.
+
+I was not able to do much for cube map, juct played around with methods and am not sure yet what i'm supposed to do with it.
+
+No kd-tree and no artifacts are done.
+
+the rest of the project works well if threading is commented out.

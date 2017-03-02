@@ -1,0 +1,8 @@
+UI works with a right click that allows the suer to choose any of the object files.
+
+To display the objects properly, the window has to be closed and rerunned everytime.
+
+To compile, one can use g++ -o proj3 proj3.cpp -lGL -lGLU -lglut
+followd by ./proj3
+
+
